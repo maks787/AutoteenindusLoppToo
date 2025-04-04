@@ -1,0 +1,6 @@
+@Autoteenindus_HostAddress = http://localhost:5295
+
+GET {{Autoteenindus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
