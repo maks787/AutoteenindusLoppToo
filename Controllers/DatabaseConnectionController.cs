@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 
-namespace YourNamespace.Controllers
+namespace Autoteenindus.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
